@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Neha Rani
+## 👋 Hi, I'm Neha
 
 🌟 An optimistic, curious, and detail-oriented Front-End Developer passionate about building beautiful, accessible, and high-performance web experiences.
 
